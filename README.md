@@ -23,7 +23,9 @@ Make sure you have Node.js(https://nodejs.org/) installed.
    git clone https://github.com/NathanMontois/Opensource.git
 
 cd todo-list
+
 npm install
+
 npm start
 
 Contributing
