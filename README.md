@@ -22,11 +22,11 @@ Make sure you have Node.js(https://nodejs.org/) installed.
 
    git clone https://github.com/NathanMontois/Opensource.git
 
-cd todo-list
+→ cd todo-list
 
-npm install
+→ npm install
 
-npm start
+→ npm start
 
 Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
