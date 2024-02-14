@@ -1,4 +1,4 @@
-# Project Name Code of Conduct
+# Todo-List Code of Conduct
 
 ## Overview
 
