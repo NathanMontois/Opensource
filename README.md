@@ -1,4 +1,4 @@
-# Simple Todo List
+# Todo-List
 
 A minimalistic to-do list application to help you stay organized and manage your tasks efficiently.
 
