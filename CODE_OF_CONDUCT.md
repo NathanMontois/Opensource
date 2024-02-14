@@ -32,7 +32,7 @@ Unacceptable behaviors include, but are not limited to:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [maintainer-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at nathan.montois@my-digital-school.org. All complaints will be reviewed and investigated promptly and fairly.
 
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Details of specific enforcement policies may be posted separately.
 
