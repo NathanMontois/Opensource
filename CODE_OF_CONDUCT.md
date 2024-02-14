@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Project Name community is dedicated to providing a welcoming and inclusive environment for all contributors and participants. We value the diversity of our community and strive to foster a collaborative and respectful atmosphere.
+The Todo-List community is dedicated to providing a welcoming and inclusive environment for all contributors and participants. We value the diversity of our community and strive to foster a collaborative and respectful atmosphere.
 
 This Code of Conduct outlines our expectations for behavior within the project's community, both online and offline. All contributors, maintainers, and participants are expected to adhere to this code.
 
